@@ -45,29 +45,37 @@ ul.menuBar li a:hover, ul.menuBar li a:active{
 }
 
 section{
+    padding-top: 10px;
     color: mintcream;
 }
 
-section h1{
+a{
+    color: mintcream;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+
+section div.artical{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: lightslategray;
+}
+
+section div.artical h1{
     font-size: 34px;
     text-align: center;
 }
 
-section p{
+section div.artical p{
     font-size: 20px;
     text-indent: 2em;
     text-align: left;
 }
 
-section div.eqs{
+section div.artical div.eqs{
     font-size: 20px;
     font-family:'Times New Roman', Times, serif;
     padding-left: 40%;
     text-indent: 1em;
     text-align: left;
-}
-
-a{
-    color: mintcream;
-    text-decoration: none;
 }
