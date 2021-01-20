@@ -16,7 +16,7 @@ ul.menuBar{
 
 ul.menuBar li{
     list-style-type: none;
-    width: 180px;
+    width: 140px;
     height: 50px;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -27,7 +27,7 @@ ul.menuBar li{
 ul.menuBar li a{
     padding-top: 8px;
     color: silver;
-    font-size: 24px;
+    font-size: 28px;
     font-weight: bolder;
     font-family: 'Courier New', Courier, monospace;
     text-decoration: none;

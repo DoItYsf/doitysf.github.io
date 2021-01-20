@@ -83,3 +83,8 @@ div.sect ul li a{
     font-size: 18px;
     font-family: 'Times New Roman', Times, serif;
 }
+
+div.sect ul li a p.content{
+    font-size: 10px;
+    text-align: right;
+}
