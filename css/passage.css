@@ -56,8 +56,7 @@ a{
 }
 
 section div.artical{
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding: 10px;
     background-color: lightslategray;
 }
 
@@ -72,10 +71,20 @@ section div.artical p{
     text-align: left;
 }
 
+section div.artical p.content{
+    font-size: 10px;
+    text-align: right;
+}
+
 section div.artical div.eqs{
     font-size: 20px;
     font-family:'Times New Roman', Times, serif;
     padding-left: 40%;
     text-indent: 1em;
     text-align: left;
+}
+
+section div.artical img{
+    font-size: 16px;
+    text-align: center;
 }
